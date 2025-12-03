@@ -7,6 +7,7 @@ A structured collection of my Machine Learning, Deep Learning, and NLP learning 
 This repository documents everything I learn in ML — from basics to advanced concepts — along with clean notebooks, explanations, and implementation code.
 
 🚀 What This Repo Contains
+
 ✔️ Concept-wise notebooks
 
 Examples + explanations + visualizations for topics like:
@@ -73,34 +74,44 @@ ML-Learnings/
 │   ├── Numpy_Notes.ipynb
 │   ├── Pandas_Notes.ipynb
 │
+
+
 │── 02_Regression/
 │   ├── Linear_Regression.ipynb
 │   ├── Polynomial_Regression.ipynb
 │   ├── Regularization_(Ridge_Lasso).ipynb
 │
+
+
 │── 03_Classification/
 │   ├── Logistic_Regression.ipynb
 │   ├── KNN.ipynb
 │   ├── Decision_Trees.ipynb
 │   ├── Random_Forest.ipynb
 │
+
+
 │── 04_Clustering/
 │   ├── KMeans.ipynb
 │   ├── Hierarchical_Clustering.ipynb
 │
+
+
 │── 05_Feature_Engineering/
 │   ├── Handling_Missing_Values.ipynb
 │   ├── Encoding_Techniques.ipynb
 │   ├── Scaling.ipynb
 │   ├── Outlier_Detection.ipynb
 │
+
 │── 06_Model_Evaluation/
 │   ├── Metrics_Classification.ipynb
 │   ├── Metrics_Regression.ipynb
 │
+
 │── projects/
-│   ├── HousePricePrediction/
-│   ├── StudentScorePrediction/
+│   ├── Basic ML projects
+│   ├── Advance ML projects
 │
 └── README.md
 
