@@ -116,7 +116,6 @@ ML-Learnings/
 └── README.md
 
 
-I can generate this structure for you (with dummy files) if you want.
 
 🧠 Purpose of This Repository
 
@@ -137,8 +136,6 @@ Scikit-learn
 Matplotlib, Seaborn
 
 Jupyter Notebook
-
-XGBoost / LightGBM (optional)
 
 📌 Learning Approach
 
